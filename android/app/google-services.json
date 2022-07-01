@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "917119671987",
+    "project_id": "rack-stack",
+    "storage_bucket": "rack-stack.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:917119671987:android:eda9056f85050f8bfbdac6",
+        "android_client_info": {
+          "package_name": "com.example.rack_stack"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "917119671987-6msasba5n42i40udlml0ir8k7e36927j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5CRDQjNqUQyp-KDDxXB7agHa-mdG-iFc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "917119671987-6msasba5n42i40udlml0ir8k7e36927j.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "917119671987-23p3bkq0k47elhi1eq48kro12i33s6bm.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.rackStack"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
